@@ -6,13 +6,13 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyCUaRF8aPo1X9BLiAYMeu2xYQwsODlWypA",
-    authDomain: "keep-clone-480b9.firebaseapp.com",
-    projectId: "keep-clone-480b9",
-    storageBucket: "keep-clone-480b9.appspot.com",
-    messagingSenderId: "167281972807",
-    appId: "1:167281972807:web:1117fa7b81de6d4b10c362",
-    measurementId: "G-CXE1BHGKW2"
+    apiKey: "apikey",
+    authDomain: "authDomain",
+    projectId: "projectId",
+    storageBucket: "storageBucket",
+    messagingSenderId: "messagingSenderId",
+    appId: "appId",
+    measurementId: "mesurementId"
   };
 
 
